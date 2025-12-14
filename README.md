@@ -78,4 +78,5 @@ Reveals customer contribution to total revenue
 Helps stakeholders understand sales behavior and performance trends
 
 ## 📷 Dashboard Preview
-![Dashboard Preview]([Snapshot of the Dashboard.png](https://github.com/rehamdata/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/rehamdata/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
